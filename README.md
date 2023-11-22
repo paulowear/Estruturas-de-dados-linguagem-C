@@ -1,6 +1,9 @@
 # Estruturas-de-dados-linguagem-C
  
- Bem-vindo ao repositório de Estruturas de Dados em Linguagem C! Este projeto tem como objetivo fornecer implementações robustas e eficientes de diversas estruturas de dados em C, servindo como uma referência sólida para estudantes e desenvolvedores que desejam aprimorar suas habilidades na linguagem.
+Estruturas de Dados em Linguagem C
+Foto de Perfil
+
+Bem-vindo ao repositório de Estruturas de Dados em Linguagem C! Este projeto tem como objetivo fornecer implementações robustas e eficientes de diversas estruturas de dados em C, servindo como uma referência sólida para estudantes e desenvolvedores que desejam aprimorar suas habilidades na linguagem.
 
 Estruturas Implementadas
 Lista Encadeada
@@ -34,6 +37,16 @@ Linguagem C
   <img src="https://img.icons8.com/color/96/000000/c-programming.png" alt="Ícone da Linguagem C">
 </p>
 Licença
+Este projeto é licenciado sob a Licença MIT - consulte o arquivo LICENSE.md para obter mais detalhes.
+
+Esperamos que este repositório seja uma fonte valiosa para aprimorar suas habilidades em estruturas de dados em Linguagem C. Dúvidas ou sugestões? Não hesite em entrar em contato. Boas codificações!
+
+
+
+
+
+
+
 Este projeto é licenciado sob a Licença MIT - consulte o arquivo LICENSE.md para obter mais detalhes.
 
 
