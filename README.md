@@ -1,7 +1,7 @@
 # Estruturas-de-dados-linguagem-C
  
 Estruturas de Dados em Linguagem C
-Foto de Perfil
+
 
 Bem-vindo ao repositório de Estruturas de Dados em Linguagem C! Este projeto tem como objetivo fornecer implementações robustas e eficientes de diversas estruturas de dados em C, servindo como uma referência sólida para estudantes e desenvolvedores que desejam aprimorar suas habilidades na linguagem.
 
